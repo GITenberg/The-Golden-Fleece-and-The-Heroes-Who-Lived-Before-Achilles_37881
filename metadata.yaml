@@ -1,0 +1,47 @@
+_repo: The-Golden-Fleece-and-The-Heroes-Who-Lived-Before-Achilles_37881
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pogány, Willy
+    aliases:
+    - Pogany, Willy
+    - Pogány, Vilmos
+    birthdate: 1882
+    deathdate: 1955
+    gutenberg_agent_id: '6985'
+    url: http://www.gutenberg.org/2009/agents/6985
+    wikipedia: http://en.wikipedia.org/wiki/Willy_Pogany
+covers:
+- cover_type: archival
+  image_path: 37881-tei/images/cover.png
+creator:
+  author:
+    agent_name: Colum, Padraic
+    alias: Collumb, Patrick
+    birthdate: 1881
+    deathdate: 1972
+    gutenberg_agent_id: '893'
+    url: http://www.gutenberg.org/2009/agents/893
+    wikipedia: http://en.wikipedia.org/wiki/Padraic_Colum
+description: Describes the cycle of myths about the Argonauts and the quest for the
+  Golden Fleece, as well as the tales of the Creation of Heaven and Earth, the labors
+  of Hercules, Theseus and the Minotaur, etc. Enter a world where harpies torment
+  mortals, the Argonaut Orpheus sings, the mighty god Zeus wages war on the Titans,
+  and Prometheus steals fire. Author Padraic Colum weaves the tales of Jason and his
+  Argonauts with classic Greek mythology to create this captivating epic about life,
+  war, and astounding beings who lived in a time long past.
+gutenberg_issued: '2011-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37881'
+  lccn: '21021308'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Argonauts (Greek mythology) -- Juvenile literature'
+- !lcsh 'Mythology, Greek -- Juvenile literature'
+title: The Golden Fleece and The Heroes Who Lived Before Achilles
+url: http://www.gutenberg.org/ebooks/37881
